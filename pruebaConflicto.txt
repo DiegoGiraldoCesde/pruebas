@@ -1,2 +1,3 @@
 Este archivo es para el conflicto
 versión rama B
+este podría ser el problema
