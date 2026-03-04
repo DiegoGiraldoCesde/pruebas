@@ -5,7 +5,7 @@ const greetings = (name = 'Diego') => {
   return message
 }
 
-console.log(greetings())
+console.log(greetings("papucho"))
 console.log(greetings('Diego Giraldo'))
 
 
