@@ -1,3 +1,4 @@
 Hola mundo
 Archivo para probar conflictos
+Version desde rama B versión 2
 Version desde rama A
