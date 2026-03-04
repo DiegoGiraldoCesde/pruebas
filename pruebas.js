@@ -1,6 +1,6 @@
 //función flecha
 
-const greetings = (name = 'Diego') => {
+const greetings = function(name = 'Diego') {
   let message = name + ', welcome to 30 Days Of JavaScript!'
   return message
 }
