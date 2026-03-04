@@ -1,0 +1,2 @@
+Este archivo es para el conflicto
+versión rama A
