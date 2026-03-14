@@ -1,2 +1,5 @@
 Este archivo es para el conflicto
-versión rama A
+versión rama B
+hay que sumarle esta linea
+hay que sumarle esta linea
+y esta
