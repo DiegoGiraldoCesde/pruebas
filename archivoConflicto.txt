@@ -1,3 +1,7 @@
 Este archivo es para el conflicto
+versión rama B
+hay que sumarle esta linea
+hay que sumarle esta linea
+y esta
 versión rama A
 Version main
