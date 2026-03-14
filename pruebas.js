@@ -8,5 +8,5 @@ const greetings = function(name = 'Diego') {
 console.log(greetings(""))
 console.log(greetings('Diego Giraldo'))
 
-
+//guardar cambios
 
